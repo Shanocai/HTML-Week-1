@@ -1,0 +1,70 @@
+h1{
+font-size: 30px;
+color: green;
+margin-left: 7%;
+top: 85%;
+position: absolute;
+font-family: 'Courier New', Courier, monospace;
+}
+
+
+h2{
+font-size: 20px;
+color: green;
+padding-bottom: 0%;
+margin-left: 7%;
+margin-right: 80%;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+margin-left: 75%;
+margin-right: 6%;
+color: green;
+top: 1%;
+position: absolute;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h4{
+margin-left: 75%;
+margin-right: 5%;
+color: red;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h5{
+margin-left: 75%;
+margin-right: 5%;
+color: green;
+font-family: 'Courier New', Courier, monospace;
+}
+
+h6{
+margin-left: 7%;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+top: 87%;
+position: absolute;
+color: red;
+}
+
+p{
+color: green;
+margin-left: 7%;
+margin-right:27%;
+font-size: 18px;
+font-family: 'Courier New', Courier, monospace;
+position: absolute;
+top: 96%;
+}
+
+img{
+border: 10px solid rgb(0, 0, 0);
+border-radius: 0px;
+padding: 100px;
+top: 10%;
+position: absolute;
+margin-left: 7%;
+font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,47 @@
+.bomboclat{
+    text-size-adjust: 19px ;
+    color:green ;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h2{
+    color: red ;
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h3{
+    color: blue ;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h4{
+    margin-right: 10%;
+    text-align: justify;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h5{
+    margin-right: 10%;
+    text-align: left;
+    color: green;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    h6{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    img{
+    margin-left: 18%;
+    border-radius: 40px;
+    }
+
+    a{
+    color: blueviolet;
+    }

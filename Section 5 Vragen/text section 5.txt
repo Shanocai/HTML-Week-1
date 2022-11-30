@@ -1,0 +1,31 @@
+1. je moet weten hoe je het eindproduct eruit wilt laten zien
+2. de snelheid van een website
+3.een website die op alle devices werkt
+4.
+5.de inhoud van een webpagina aanwijzen die betrekking heeft tot
+het centrale onderwerp
+6.een header element is een container voor inhoud 
+7. background color, text color, border color
+8.de block element neemt het hele scherm in terwijl de inline
+element alleen het nodig eshcerm inneemt
+9.een element om tekst te verstoppen zodat je bijvoorbeeld al je
+tussenstappen kan volgen
+10. een tekst tussen < !╌ ╌> 
+11. zorgt ervoor dat een tekst zal "vliegen" waar je hem wilt hebben.
+12.om een effect aan een selector te geven, <hover>
+13. word gebruikt om 2 dimensionale fotos te renderen.
+14. de binnen spatie tussen de content en de borders
+15. de buiten spatie tussen de content en de borders
+16. padding is de spatie aan de binnenkant en margin aan de
+buitenkant
+17.
+18. zet de meest gewilde ... voor een element zijn overflow
+19.
+20.
+21.absoluut omdat je geen rekeninig hoeft te houden met 
+andere content.
+22.vormt elementen, <form>
+23.omdat dat overzichtelijker is, ja het kan ook andersom, 
+eerst html is beter zodat je al een beeld hebt wat waar gaat komen 
+en op basis daarvan css toepast
+24.

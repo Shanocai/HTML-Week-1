@@ -1,0 +1,47 @@
+h1{
+position: absolute;
+margin-left: 7%;
+margin-top: 20px;
+font-size: 20px;
+letter-spacing: 26px;
+color: orange;
+}
+
+h2{
+position: absolute;
+margin-left: 45%;
+top: 3%;
+font-size: 20px;
+letter-spacing: 26px;
+color: orange;
+}
+
+.flexbox-item-1{
+margin-left: 18px;
+margin-right: 70%;
+font-size: 20px;
+letter-spacing: 25px;
+line-height: 32px;
+color: orange;
+}
+
+.flexbox-item-2{
+position: absolute;
+margin-left: 41%;
+margin-right: 29%;
+font-size: 20px;
+letter-spacing: 15px;
+line-height: 42px;
+color: orange;
+}
+
+.Img1{
+margin-top: 1%;
+margin-left: 2%;
+}
+
+.Img2{
+position: absolute;
+margin-left: 40%;
+top: 3%;
+}

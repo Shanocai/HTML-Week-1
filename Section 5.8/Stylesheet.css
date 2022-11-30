@@ -1,0 +1,59 @@
+body{
+margin: 0;
+}
+
+p{
+position: absolute;
+margin-top: 20%;
+margin-left: 35%;
+font-size: 20px;
+font-family: monospace;
+letter-spacing: 2px;
+text-decoration: underline;
+}
+
+img{
+position: absolute;
+}
+
+form{
+position: absolute;
+margin-left: 33%;
+margin-top: 23%;
+padding-right: 40px;
+}
+
+#Naam{
+position: absolute;
+padding-right: 45px;
+margin-top: 1%;
+margin-left: 38%;
+}
+
+#Email{position: absolute;
+padding-right: 45px;
+margin-top: 1%;
+margin-left: 38%;
+}
+
+#Wachtwoord{
+position: absolute;
+margin-top: 1%;
+margin-left: 33%;
+}
+
+#Geslacht{
+    position: absolute;
+    padding-right: 20px;
+    margin-top: 1%;
+margin-left: 38%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#Media{
+position: absolute;
+padding-right: 20px;
+margin-top: 1%;
+margin-left: 38%;
+}
